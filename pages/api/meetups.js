@@ -28,7 +28,7 @@ async function handler(req, res) {
     try {
       const db = client.db('meetups');
 
-      const meetupsCollection = await db.collection('meetups');
+      const meetupsCollection = db.collection('meetups');
 
       const data = await meetupsCollection.find().toArray();
 
