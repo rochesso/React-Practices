@@ -1,12 +1,11 @@
 import ReactDOM from 'react-dom/client';
+import { useState } from 'react';
 
 import './index.css';
 import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
-
-import { useState } from 'react';
 
 const SimpleInput = props => {
   const [enteredName, setEnteredName] = useState('');
