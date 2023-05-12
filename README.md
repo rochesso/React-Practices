@@ -1,8 +1,13 @@
 # React-Practices-Basic
-The code in this repository is organized into different branches that represent different practices. All practices came from online courses completed by me.
 
-Practices' credits to following online courses:
+This repository is where I've organized the code I've written while completing a ReactJS course, each branch represents a different ReactJs development practice. Through this course, I've gained experience in a range of ReactJS features, from building reusable components to managing state with Redux.
 
-https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+I've organized the code into branches to make it easy for others to access and learn from. By exploring the different branches, users can gain a deeper understanding of ReactJs best practices and improve their skills in various areas.
+
+Overall, this repository has been a valuable resource for me to improve my skills and learn new practices in ReactJs development. The range of development practices covered in this repository has helped me to grow as a ReactJs developer and hone my skills in building scalable, maintainable, and efficient applications. I hope others can benefit from it as well.
+
+### [Credits](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+
 
 
