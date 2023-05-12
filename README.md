@@ -6,6 +6,8 @@ I've organized the code into branches to make it easy for others to access and l
 
 Overall, this repository has been a valuable resource for me to improve my skills and learn new practices in ReactJS development. The range of development practices covered in this repository has helped me to grow as a ReactJS developer and hone my skills in building scalable, maintainable, and efficient applications. I hope others can benefit from it as well.
 
+### [Certificate](https://www.udemy.com/certificate/UC-cdd34efc-029f-4e13-9056-5ed93cbbf361/)
+
 ### [Credits](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 
